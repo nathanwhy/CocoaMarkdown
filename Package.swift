@@ -13,7 +13,6 @@ let package = Package(
         .target(
             name: "CocoaMarkdown",
             dependencies: ["cmark"],
-            publicHeadersPath: "include",
             cSettings: [
                 .define("CMARK_INLINE", to: "inline"),
                 .headerSearchPath("."),
