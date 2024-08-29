@@ -1,4 +1,0 @@
-module CocoaMarkdown {
-    umbrella header "/Users/nelson.wu/Git/MarkdownNathan/CocoaMarkdown/Sources/CocoaMarkdown/include/CocoaMarkdown.h"
-    export *
-}
