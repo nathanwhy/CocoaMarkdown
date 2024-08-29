@@ -1,0 +1,4 @@
+module cmark {
+    umbrella header "/Users/nelson.wu/Git/MarkdownNathan/CocoaMarkdown/Sources/cmark/include/cmark.h"
+    export *
+}
